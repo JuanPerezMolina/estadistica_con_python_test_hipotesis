@@ -1,9 +1,9 @@
 <h1 align='center'>
- <b>Introducción a Tests Estadísticos con Python</b>
+ <b>Estadísticas con Python</b>
 </h1>
-levantar preguntas e hipótesis sobre muestras estadísticas y entender como responder a las hipótesis usando Python para ejecutar tests estadísticos. 
+ 
 
-## **Tests Estadísticos**
+## **Tests e hipótesis**
 
 
 ## Table of Contents
@@ -14,7 +14,14 @@ levantar preguntas e hipótesis sobre muestras estadísticas y entender como res
 5. [FAQs](#faqs)
 ### General Info
 ***
-Saber Visualizar la distribución de los datos colectados para comprender las estadísticas, levantar preguntas e hipótesis, entender como responder a las hipótesis usando tests, crear intervalos de confianza para sus muestras, comparar dos grupos de muestras, utilizar Python para ejecutar tests estadísticos, responder a preguntas de manera formal, no solo exploratoria.
+El objetivo de este proyecto es aplicar test estadisticos para comprender como aplicar el levantamiento de preguntas e hipótesis, y responder a las hipótesis usando Python para ejecutar tests estadísticos.
+
+### Objetivos
+- Ejecutar pruebas de normalidad
+- Entender las etapas de una prueba
+- Aprender como usar y calcular el p-valor
+- Usar las distribuciones t-student y Chi-Cuadrado
+- Aplicar los Test para probar hipótesis
 
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
