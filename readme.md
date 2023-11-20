@@ -14,7 +14,9 @@
 5. [FAQs](#faqs)
 ### General Info
 ***
-El objetivo de este proyecto es aplicar test estadisticos para comprender como aplicar el levantamiento de preguntas e hipótesis, y responder a las hipótesis usando Python para ejecutar tests estadísticos.
+El objetivo de este proyecto es aplicar test estadisticos para comprender como aplicar el levantamiento de preguntas e hipótesis, y responder a las hipótesis usando Python para ejecutar pruebas de hipótesis estadísticas.
+
+Las pruebas de hipótesis estadísticas son reglas de decisión que permiten evaluar la razonabilidad de las hipótesis formuladas sobre características poblacionales desconocidas y poder rechazarlas o no rechazarlas como probablemente verdaderas o falsas, con base en una muestra aleatoria.
 
 ### Objetivos
 - Ejecutar pruebas de normalidad
